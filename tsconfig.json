@@ -16,6 +16,14 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "sendgrid": [
+        "dist/sendgrid"
+      ],
+      "sendgrid/*": [
+        "dist/sendgrid/*"
+      ]
+    }
   }
 }

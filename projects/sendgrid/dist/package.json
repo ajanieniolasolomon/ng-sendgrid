@@ -1,0 +1,21 @@
+{
+  "name": "sendgrid",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^7.0.0",
+    "@angular/core": "^7.0.0"
+  },
+  "main": "bundles/sendgrid.umd.js",
+  "module": "fesm5/sendgrid.js",
+  "es2015": "fesm2015/sendgrid.js",
+  "esm5": "esm5/sendgrid.js",
+  "esm2015": "esm2015/sendgrid.js",
+  "fesm5": "fesm5/sendgrid.js",
+  "fesm2015": "fesm2015/sendgrid.js",
+  "typings": "sendgrid.d.ts",
+  "metadata": "sendgrid.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
